@@ -276,8 +276,8 @@ http://localhost/digits/
 
 ## 📸 Screenshots
 
-![DIGITS Homepage](docs/screenshot/digits1.png)
-![DIGITS Homepage](docs/screenshot/digits2.png)
+![DIGITS Homepage](img/screenshot/digits1.png)
+![DIGITS Homepage](img/screenshot/digits2.png)
 
 
 ---
